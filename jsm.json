@@ -20,7 +20,28 @@
 			"changeable": 0,
 			"ext":"./lib/tokenm.json"
 		},
-		
+		{
+			"key": "苹果",
+			"name": "小苹果影视",
+			"type": 3,
+			"api": "csp_LiteApple",
+			"playerType": 1,
+           		"searchable": 1,
+          		"quickSearch": 1,
+          		"changeable": 1,
+        		"jar": "./fan.jar"
+       		},
+		{ 
+    			"key": "文才秒", 
+     			"name": " | 文才推荐", 
+    			"type": 3, 
+     			"api": "csp_XBPQ", 
+     			"searchable": 1, 
+     			"quickSearch": 1, 
+     			"filterable": 0, 
+     			"ext": "./文才.json", 
+  			"jar": "./XBPQ.jar"      
+  		},
 		{
 			"key":"AliShare",
 			"name":"阿里云盘影视分享",
